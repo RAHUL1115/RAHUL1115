@@ -27,12 +27,10 @@
 <br />
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="RAHUL1115's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAHUL1115&show_icons=true&hide_border=true" />
 
-</details>
+
+ <img align="left" alt="RAHUL1115's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAHUL1115&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
