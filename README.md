@@ -34,5 +34,5 @@
 
 [twitter]: https://twitter.com/Rahul_1115
 [youtube]: https://youtube.com/rahulgupta-15
-[instagram]: https://instagram.com/mr_rahulgupta
+[instagram]: https://instagram.com/mr_rahulgupta_
 [linkedin]: https://linkedin.com/in/rahulgupta-15
