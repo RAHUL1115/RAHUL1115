@@ -1,4 +1,5 @@
 ### Hi there, I'm Rahul
+![](https://komarev.com/ghpvc/?username=rahul1115&color=lightgrey&style=for-the-badge)
 
 ## I'm a Developer!
 
@@ -16,7 +17,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,9 +28,10 @@
 
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RAHUL1115&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<img align="left" alt="RAHUL1115's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAHUL1115&show_icons=true&hide_border=true" />
 
- <img align="left" alt="RAHUL1115's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAHUL1115&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Rahul_1115
 [youtube]: https://youtube.com/rahulgupta-15
