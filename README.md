@@ -3,25 +3,30 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- I’m currently learning AI and transitioning form Development to Data Science field.
+- Intermediate level proficiency in Full Stack Development.
+- 2022 Goals: Learn a bit more about data science and improve on my soft skills.
 
 
 ### Connect with me:
 
-[<img align="left" alt="Rahul_1115 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rahulgupta-15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mr_rahulgupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rahul_1115 | Twitter" width="22px" src="https://img.icons8.com/color/48/undefined/twitter--v1.png" />][twitter]
+[<img align="left" alt="rahul1115 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="mr_rahulgupta | Instagram" width="22px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/undefined/html-5--v1.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/undefined/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/undefined/javascript--v1.png" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/undefined/react-native.png" />
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/undefined/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://img.icons8.com/fluency/48/undefined/jupyter.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/undefined/tensorflow.png" />
+<img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/undefined/power-bi.png" />
 
 <br />
 <br />
