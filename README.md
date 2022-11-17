@@ -29,16 +29,15 @@
 <img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/undefined/power-bi.png" />
 
 <br />
-<br />
 
+### Github stats:
+<img src="https://github-readme-stats.vercel.app/api?username=rahul1115&theme=swift&hide_border=false&include_all_commits=true&count_private=true">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1115&theme=swift&hide_border=false">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RAHUL1115&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<img align="left" alt="RAHUL1115's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAHUL1115&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1115&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 
 [twitter]: https://twitter.com/Rahul_1115
-[youtube]: https://youtube.com/rahulgupta-15
 [instagram]: https://instagram.com/mr_rahulgupta_
 [linkedin]: https://linkedin.com/in/rahulgupta-15
