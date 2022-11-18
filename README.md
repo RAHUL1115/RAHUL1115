@@ -22,6 +22,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/undefined/css3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/undefined/javascript--v1.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/undefined/react-native.png" />
+<img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/null/vue-js.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/undefined/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://img.icons8.com/fluency/48/undefined/jupyter.png" />
