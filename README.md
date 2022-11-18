@@ -41,4 +41,4 @@
 
 [twitter]: https://twitter.com/Rahul_1115
 [instagram]: https://instagram.com/mr_rahulgupta_
-[linkedin]: https://linkedin.com/in/rahulgupta-15
+[linkedin]: https://www.linkedin.com/in/rahul1115
