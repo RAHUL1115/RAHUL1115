@@ -1,11 +1,10 @@
 ### Hi there, I'm Rahul
 ![](https://komarev.com/ghpvc/?username=rahul1115&color=lightgrey&style=for-the-badge)
 
-## I'm a Developer!
+## A Software Engineer!
 
-- I’m currently learning AI and transitioning form Development to Data Science field.
-- Intermediate level proficiency in Full Stack Development.
-- 2022 Goals: Learn a bit more about data science and improve on my soft skills.
+- Proficient in Scalable Full Stack and AI Development.
+- 2025 Goals: Improve Mentoring skills and dive deep in scalablablity.
 
 
 ### Connect with me:
