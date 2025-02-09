@@ -27,7 +27,6 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://img.icons8.com/fluency/48/undefined/jupyter.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/undefined/tensorflow.png" />
-<img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/undefined/power-bi.png" />
 
 <br />
 
